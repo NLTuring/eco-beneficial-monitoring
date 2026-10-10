@@ -1,0 +1,25 @@
+{
+  "ladybug": {
+    "name": "七星瓢虫",
+    "available": false,
+    "reason": "原始压缩包仅提供 3ds Max (.max) 模型，浏览器无法直接加载。请先导出为 OBJ/MTL 或 glTF/GLB。"
+  },
+  "mantis": {
+    "name": "螳螂",
+    "available": true,
+    "obj": "mantis/JCI54558438144_obj/source/3d66.com_JCI54558438144.obj",
+    "mtl": "mantis/JCI54558438144_obj/source/3d66.com_JCI54558438144.mtl"
+  },
+  "frog": {
+    "name": "青蛙",
+    "available": true,
+    "obj": "frog/JJI54551672059_obj/source/3d66.com_JJI54551672059.obj",
+    "mtl": "frog/JJI54551672059_obj/source/3d66.com_JJI54551672059.mtl"
+  },
+  "woodpecker": {
+    "name": "啄木鸟",
+    "available": true,
+    "obj": "woodpecker/JEH5455806705_obj/source/3d66.com_JEH5455806705.obj",
+    "mtl": "woodpecker/JEH5455806705_obj/source/3d66.com_JEH5455806705.mtl"
+  }
+}

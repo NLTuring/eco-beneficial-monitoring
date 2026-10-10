@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 18.06.2025 15:02:51
+
+newmtl 32b324cc_d4cb_4d90_96bd_cf7cd9ed3962
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\textures\3d66-export-JCI54558438144-003.jpg
+	map_Kd ..\textures\3d66-export-JCI54558438144-003.jpg
+	map_bump ..\textures\3d66-export-JCI54558438144-004.jpg
+	bump ..\textures\3d66-export-JCI54558438144-004.jpg
+	map_refl ..\textures\3d66-export-JCI54558438144-005.jpg
